@@ -39,6 +39,7 @@ rock-paper-scissors/
 │── index.html
 │── style.css
 │── script.js
+│── screenshot.png
 │── README.md
 ```
 
@@ -52,7 +53,7 @@ rock-paper-scissors/
 
 ## 📸 Preview
 
-(Add screenshot of your game here)
+![Rock Paper Scissors Game](Screenshot_rps.png)
 
 ---
 
